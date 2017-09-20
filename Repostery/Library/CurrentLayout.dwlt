@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 502
     height: 781
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -144,7 +144,7 @@ MonoBehaviour:
     y: 0
     width: 2544
     height: 1341
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -362,13 +362,19 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\rometo\Desktop\Repostery\Repostery\Repostery
+  m_LastProjectPath: C:\Users\jomoma05\Desktop\mendo\Repostery\Repostery
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: b0240000
     m_LastClickedID: 9392
     m_ExpandedIDs: 00000000b024000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: f4240000
+    m_LastClickedID: 9460
+    m_ExpandedIDs: 00000000f424000000ca9a3bffffff7f
+>>>>>>> 708d4f947cd8793aa743bbd1b65b83a8f4c9aad8
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -396,7 +402,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b0240000
+=======
+    m_ExpandedIDs: 00000000f4240000
+>>>>>>> 708d4f947cd8793aa743bbd1b65b83a8f4c9aad8
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,9 +522,15 @@ MonoBehaviour:
     height: 760
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: dafbffff00000000
+=======
+    m_SelectedIDs: cef7ffff
+    m_LastClickedID: -2098
+    m_ExpandedIDs: d6fbffff00000000
+>>>>>>> 708d4f947cd8793aa743bbd1b65b83a8f4c9aad8
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
